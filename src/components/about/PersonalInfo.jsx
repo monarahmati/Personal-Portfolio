@@ -7,7 +7,7 @@ const personalInfoContent = [
   { meta: "ملیت", metaInfo: "ایرانی" },
   { meta: "فریلنسر", metaInfo: "در دسترس" },
   { meta: "آدرس", metaInfo: "ایران" },
-  { meta: "تلفن تماس", metaInfo: "+989185555449" },
+  { meta: "تلفن تماس", metaInfo: "+9891855549" },
   { meta: "ایمیل", metaInfo: "you@mail.com" },
   { meta: "اکانت Skype ", metaInfo: " steve.milner" },
   { meta: "زبان", metaInfo: "انگلیسی و  آلمانی" },
