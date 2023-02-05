@@ -432,6 +432,7 @@ body.light .header ul.icon-menu li.icon-box:hover i {
 }
 
 .button-icon {
+<<<<<<< HEAD
     align-items: center;
     border-radius: 50%;
     bottom: 0;
@@ -455,6 +456,22 @@ body.light .header ul.icon-menu li.icon-box:hover i {
 }
 
 
+=======
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  bottom: 0;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 19px;
+  color: #ffffff;
+  border-radius: 50%;
+}
+
+>>>>>>> 2a062616b390becf1a16fcf6d2f4990bdee00bb4
 /*** Page Title ***/
 
 .title-section {
@@ -1200,7 +1217,11 @@ body.light .contact .custom-span-contact a {
 }
 
 .contact .contactform .output_message.success:before {
+<<<<<<< HEAD
   font-family: FontVazir;
+=======
+  font-family: FontAwesome;
+>>>>>>> 2a062616b390becf1a16fcf6d2f4990bdee00bb4
   content: "\f14a";
   padding-right: 10px;
 }
@@ -1210,7 +1231,11 @@ body.light .contact .custom-span-contact a {
 }
 
 .contact .contactform .output_message.error:before {
+<<<<<<< HEAD
   font-family: FontVazir ;
+=======
+  font-family: FontAwesome;
+>>>>>>> 2a062616b390becf1a16fcf6d2f4990bdee00bb4
   content: "\f071";
   padding-right: 10px;
 }

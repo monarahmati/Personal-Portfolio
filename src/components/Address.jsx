@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2a062616b390becf1a16fcf6d2f4990bdee00bb4
 import React from "react";
 
 const Address = () => {

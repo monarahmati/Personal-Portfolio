@@ -9,7 +9,11 @@ Copyright Dave Gandy 2016. All rights reserved.
 <defs>
 <font id="FontAwesome" horiz-adv-x="1536" >
   <font-face 
+<<<<<<< HEAD
     font-family="FontVazir"
+=======
+    font-family="FontAwesome"
+>>>>>>> 2a062616b390becf1a16fcf6d2f4990bdee00bb4
     font-weight="400"
     font-stretch="normal"
     units-per-em="1792"
