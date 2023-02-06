@@ -88,11 +88,8 @@ const Contact = () => {
           </div>
           {/* End .col */}
 
-<<<<<<< HEAD
           <div className="col-12" style={{ display:'flex', justifyContent:'end' }} >
-=======
-          <div className="col-12">
->>>>>>> 2a062616b390becf1a16fcf6d2f4990bdee00bb4
+
             <button type="submit" className="button">
               <span className="button-text"> ارسال پیام</span>
               <span className="button-icon fa fa-send"></span>

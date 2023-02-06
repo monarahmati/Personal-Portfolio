@@ -26,7 +26,7 @@ const Experience = () => {
     <ul>
       {experienceContent.map((val, i) => (
         <li key={i}>
-<<<<<<< HEAD
+
           <div style={{ display:'flex'}}>
           <div className="icon">
             <i className="fa fa-briefcase"></i>
@@ -36,15 +36,7 @@ const Experience = () => {
           <h5 className="poppins-font text-uppercase">
             <span className="place open-sans-font"> {val.compnayName} </span>
             {val.position} 
-=======
-          <div className="icon">
-            <i className="fa fa-briefcase"></i>
-          </div>
-          <span className="time open-sans-font text-uppercase">{val.year}</span>
-          <h5 className="poppins-font text-uppercase">
-            {val.position}
-            <span className="place open-sans-font">{val.compnayName}</span>
->>>>>>> 2a062616b390becf1a16fcf6d2f4990bdee00bb4
+
           </h5>
           <p className="open-sans-font">{val.details}</p>
         </li>
